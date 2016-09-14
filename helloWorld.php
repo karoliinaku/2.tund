@@ -7,5 +7,5 @@
 	//echo $firstName;
 	//echo $lastName;
 	
-	echo $firstName." ".$lastName;
+	echo $firstName." ".$lastName; 
 ?>
